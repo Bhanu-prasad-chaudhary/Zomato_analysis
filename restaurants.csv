@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,cuisine_type,city,average_cost_for_two,rating
+201,Spice Kitchen,North Indian,Mumbai,500,4.4
+202,Burger Palace,American,Delhi,400,4.4
+203,Pizza House,Italian,Bangalore,600,3.5
+204,Tandoori Nights,North Indian,Hyderabad,700,3.5
+205,Sweet Treats,Desserts,Pune,300,4.2
+206,The Green Bowl,Healthy Food,Mumbai,450,4.1
+207,Sushi World,Japanese,Delhi,1200,3.6
+208,Noodle Bar,Chinese,Bangalore,500,4.9
+209,Cafe Day,Cafe,Hyderabad,350,3.8
+210,Biryani Zone,Biryani,Pune,550,3.6

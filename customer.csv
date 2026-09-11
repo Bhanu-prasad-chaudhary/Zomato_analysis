@@ -1,0 +1,21 @@
+customer_id,name,email,phone,city,signup_date
+101,Rahul Sharma,user101@gmail.com,9876543101,Mumbai,2025-01-01
+102,Anjali Desai,user102@gmail.com,9876543102,Delhi,2025-01-02
+103,Amit Patel,user103@gmail.com,9876543103,Bangalore,2025-01-03
+104,Priya Nair,user104@gmail.com,9876543104,Hyderabad,2025-01-04
+105,Vikram Singh,user105@gmail.com,9876543105,Pune,2025-01-05
+106,Siddharth Rao,user106@gmail.com,9876543106,Mumbai,2025-01-06
+107,Neha Gupta,user107@gmail.com,9876543107,Delhi,2025-01-07
+108,Rohan Verma,user108@gmail.com,9876543108,Bangalore,2025-01-08
+109,Sneha Reddy,user109@gmail.com,9876543109,Hyderabad,2025-01-09
+110,Manish Kumar,user110@gmail.com,9876543110,Pune,2025-01-10
+111,Kriti Joshi,user111@gmail.com,9876543111,Mumbai,2025-01-11
+112,Arjun Malhotra,user112@gmail.com,9876543112,Delhi,2025-01-12
+113,Deepika Padukone,user113@gmail.com,9876543113,Bangalore,2025-01-13
+114,Ranveer Singh,user114@gmail.com,9876543114,Hyderabad,2025-01-14
+115,Alia Bhatt,user115@gmail.com,9876543115,Pune,2025-01-15
+116,Varun Dhawan,user116@gmail.com,9876543116,Mumbai,2025-01-16
+117,Sara Ali Khan,user117@gmail.com,9876543117,Delhi,2025-01-17
+118,Kartik Aaryan,user118@gmail.com,9876543118,Bangalore,2025-01-18
+119,Kiara Advani,user119@gmail.com,9876543119,Hyderabad,2025-01-19
+120,Sidharth Malhotra,user120@gmail.com,9876543120,Pune,2025-01-20
