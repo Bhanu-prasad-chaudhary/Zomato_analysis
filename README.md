@@ -703,7 +703,7 @@ Business Analysis
 
 ## Connect With Me
 
-GitHub: https://github.com/Bhanu-prasad-chaudhary/sql_retail_sales_p1
+GitHub: https://github.com/Bhanu-prasad-chaudhary/Zomato_analysis
 
 LinkedIn: https://www.linkedin.com/in/bhanu-chaudhary-7a84082a4/
 
