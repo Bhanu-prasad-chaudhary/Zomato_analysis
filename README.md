@@ -18,7 +18,6 @@ The project focuses on customer behavior, restaurant performance, order trends, 
 
 ### 1. Database Setup
 
-![ERD](https://github.com/Bhanu-prasad-chaudhary/Zomato_analysis/blob/main/Zomato_ER_diagram.pgerd)
 
 
 The project contains five main tables:
